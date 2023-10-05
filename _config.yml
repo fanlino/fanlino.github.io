@@ -30,6 +30,9 @@ url: "https://blog.toron.run" # the base hostname & protocol for your site, e.g.
 twitter_username: fanlino
 github_username:  fanlino
 
+# markdown processor
+markdown: kramdown
+
 # Build settings
 theme: minima
 plugins:
